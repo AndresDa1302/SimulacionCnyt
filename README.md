@@ -19,16 +19,16 @@ de manera adicional,la libreria poseera una funcion que sera capaz de graficar c
 
 ## Sistema
 
-![](Images/imagen1.jpeg)
+![](Images/imagen1.JPG)
 
 ## Matriz asociada al sistema 
 
-![](Images/imagen2.jpeg)
+![](Images/imagen2.JPG)
 
 ## Estado inicial del sistema
 
 
-![](Images/imagen3.jpeg)
+![](Images/imagen3.JPG)
 
 
 ## Representacion en la libreria 
